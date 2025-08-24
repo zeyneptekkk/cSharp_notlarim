@@ -1,0 +1,8 @@
+C:\Users\hp\OneDrive\Masaüstü\Projelerim\1_Ado.Net_giris\bin\Debug\1_Ado.Net_giris.exe.config
+C:\Users\hp\OneDrive\Masaüstü\Projelerim\1_Ado.Net_giris\bin\Debug\1_Ado.Net_giris.exe
+C:\Users\hp\OneDrive\Masaüstü\Projelerim\1_Ado.Net_giris\bin\Debug\1_Ado.Net_giris.pdb
+C:\Users\hp\OneDrive\Masaüstü\Projelerim\1_Ado.Net_giris\obj\Debug\1_Ado.Net_giris.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Masaüstü\Projelerim\1_Ado.Net_giris\obj\Debug\1_Ado.Net_giris.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Masaüstü\Projelerim\1_Ado.Net_giris\obj\Debug\1_Ado.Net_giris.exe
+C:\Users\hp\OneDrive\Masaüstü\Projelerim\1_Ado.Net_giris\obj\Debug\1_Ado.Net_giris.pdb
+C:\Users\hp\OneDrive\Masaüstü\Projelerim\1_Ado.Net_giris\obj\Debug\1_Ado.Net_giris.exe.config

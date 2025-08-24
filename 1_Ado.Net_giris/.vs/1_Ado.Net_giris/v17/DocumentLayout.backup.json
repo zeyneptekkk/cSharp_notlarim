@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\1_Ado.Net_giris\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFDF2FF-68CF-4442-987F-AF01928CF986}|1_Ado.Net_giris.csproj|C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\1_Ado.Net_giris\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFDF2FF-68CF-4442-987F-AF01928CF986}|1_Ado.Net_giris.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFDF2FF-68CF-4442-987F-AF01928CF986}|1_Ado.Net_giris.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\projelerim\\1_ado.net_giris\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFDF2FF-68CF-4442-987F-AF01928CF986}|1_Ado.Net_giris.csproj|solutionrelative:musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "musteri.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\1_Ado.Net_giris\\musteri.cs",
+              "RelativeDocumentMoniker": "musteri.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\1_Ado.Net_giris\\musteri.cs",
+              "RelativeToolTip": "musteri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T19:10:36.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\1_Ado.Net_giris\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\1_Ado.Net_giris\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T17:37:10.198Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
