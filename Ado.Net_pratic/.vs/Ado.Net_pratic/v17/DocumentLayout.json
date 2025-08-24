@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\Ado.Net_pratic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E86B17-AFBD-4524-B008-4B2231F3ABC7}|Ado.Net_pratic.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\projelerim\\ado.net_pratic\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E86B17-AFBD-4524-B008-4B2231F3ABC7}|Ado.Net_pratic.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E86B17-AFBD-4524-B008-4B2231F3ABC7}|Ado.Net_pratic.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\projelerim\\ado.net_pratic\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4E86B17-AFBD-4524-B008-4B2231F3ABC7}|Ado.Net_pratic.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E86B17-AFBD-4524-B008-4B2231F3ABC7}|Ado.Net_pratic.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\projelerim\\ado.net_pratic\\model\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E86B17-AFBD-4524-B008-4B2231F3ABC7}|Ado.Net_pratic.csproj|solutionrelative:model\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\Ado.Net_pratic\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\Ado.Net_pratic\\Form1.cs [Design]*",
+              "RelativeToolTip": "Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T20:45:55.539Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Musteri.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\Ado.Net_pratic\\model\\Musteri.cs",
+              "RelativeDocumentMoniker": "model\\Musteri.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\Ado.Net_pratic\\model\\Musteri.cs",
+              "RelativeToolTip": "model\\Musteri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T20:32:50.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\Ado.Net_pratic\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\Ado.Net_pratic\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAywJQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T19:49:23.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

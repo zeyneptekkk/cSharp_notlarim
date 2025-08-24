@@ -1,0 +1,11 @@
+C:\Users\hp\OneDrive\Masaüstü\Projelerim\Ado.Net_pratic\bin\Debug\Ado.Net_pratic.exe.config
+C:\Users\hp\OneDrive\Masaüstü\Projelerim\Ado.Net_pratic\bin\Debug\Ado.Net_pratic.exe
+C:\Users\hp\OneDrive\Masaüstü\Projelerim\Ado.Net_pratic\bin\Debug\Ado.Net_pratic.pdb
+C:\Users\hp\OneDrive\Masaüstü\Projelerim\Ado.Net_pratic\obj\Debug\Ado.Net_pratic.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Masaüstü\Projelerim\Ado.Net_pratic\obj\Debug\Ado.Net_pratic.Form1.resources
+C:\Users\hp\OneDrive\Masaüstü\Projelerim\Ado.Net_pratic\obj\Debug\Ado.Net_pratic.Properties.Resources.resources
+C:\Users\hp\OneDrive\Masaüstü\Projelerim\Ado.Net_pratic\obj\Debug\Ado.Net_pratic.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Masaüstü\Projelerim\Ado.Net_pratic\obj\Debug\Ado.Net_pratic.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Masaüstü\Projelerim\Ado.Net_pratic\obj\Debug\Ado.Net_pratic.exe
+C:\Users\hp\OneDrive\Masaüstü\Projelerim\Ado.Net_pratic\obj\Debug\Ado.Net_pratic.pdb
+C:\Users\hp\OneDrive\Masaüstü\Projelerim\Ado.Net_pratic\obj\Debug\Ado.Net_pratic.exe.config
